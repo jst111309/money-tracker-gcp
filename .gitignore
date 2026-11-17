@@ -1,0 +1,12 @@
+# Kredensial: jangan pernah di-commit
+serviceaccountkey.json
+*.pem
+*.key
+
+# Dependency
+backend/node_modules/
+
+# Editor dan OS
+.vscode/
+.DS_Store
+Thumbs.db
